@@ -1,6 +1,6 @@
 # Chipotle US Location Data
 
-|   Visualizations   |
+|   Click on image to expand visualizations   |
 |:--------------:|
 | Density Map|
 |![USMAP](https://github.com/jbrdge/TableauProjects/blob/master/Datasources/Chipotle/ChipotleMap.png)|
