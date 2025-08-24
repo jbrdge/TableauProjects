@@ -1,5 +1,9 @@
 # Chipotle US Location Data
-This project analyzes Chipotle density by state utilizing Tableu and the Chipotle Location dataset from Kaggle. You can see that at the time this data was collected, California and Texas had the largest amount of Chipotle Locations.
+Project: Chipotle US Location Data
+
+Tools Used: Tableau
+
+This project analyzes Chipotle density by state utilizing Tableau and the Chipotle Location dataset from Kaggle. You can see that at the time this data was collected, California and Texas had the largest amount of Chipotle Locations.
 
 https://www.kaggle.com/datasets/jeffreybraun/chipotle-locations
 
